@@ -1,0 +1,12 @@
+[submodule "task-list-server"]
+	path = task-list-server
+	url = https://github.com/lucasmoraist/task-list-server
+[submodule "task-list-gateway"]
+	path = task-list-gateway
+	url = https://github.com/lucasmoraist/task-list-gateway
+[submodule "task-ms"]
+	path = task-ms
+	url = https://github.com/lucasmoraist/task-ms
+[submodule "comment-ms"]
+	path = comment-ms
+	url = https://github.com/lucasmoraist/comment-ms
